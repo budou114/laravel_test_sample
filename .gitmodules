@@ -1,0 +1,6 @@
+[submodule "laravel_test_sample-app"]
+	path = laravel_test_sample-app
+	url = https://github.com/budou114/laravel_test_sample-app.git
+[submodule "laravel_test_sample-infra"]
+	path = laravel_test_sample-infra
+	url = https://github.com/budou114/laravel_test_sample-infra.git
